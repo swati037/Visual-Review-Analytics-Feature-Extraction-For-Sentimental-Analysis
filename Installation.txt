@@ -1,0 +1,13 @@
+npm i @mui/lab -- imp for datepicker
+
+npm i date-fns
+
+npm i @mui/x-date-pickers
+
+
+npm install --save react-date-range
+npm install --save react date-fns
+npm i @material-ui/core --force
+npm i rsuite --save
+
+npm i react-search-box --save
